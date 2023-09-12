@@ -17,6 +17,7 @@ function uuid()
 end
 ```
 How to install on my server tfs 1.5?
-```Put it in data/scripts/ as a .lua file.
+```
+Put it in data/scripts/ as a .lua file.
 Update the config with your prizes and positions.
 Put a lever on the ground in rme with the actionId.```
